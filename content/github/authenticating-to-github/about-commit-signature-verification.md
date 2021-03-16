@@ -69,5 +69,6 @@ Signature verification for bots will only work if the request is verified and au
 ### Further reading
 
 - "[Signing commits](/articles/signing-commits)"
-- "[Signing tags](/articles/signing-tags)"
+- "[Signing tags](/artic
+les/signing-tags)"
 - "[Troubleshooting commit signature verification](/articles/troubleshooting-commit-signature-verification)"
